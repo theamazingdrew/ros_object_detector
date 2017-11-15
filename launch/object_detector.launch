@@ -1,0 +1,8 @@
+<launch>
+
+  <group ns="camera1">
+    <node pkg="cv_camera" name="cam1" type="cv_camera_node"/>
+  </group>
+
+  <!--> <node name="recognizer" pkg="object_detector" type="recognizer.py"/> -->
+</launch>
