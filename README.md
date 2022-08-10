@@ -15,5 +15,5 @@ This is an alpha, "it works on my laptop" release.
 - Make parameters definable in a parameter file
 - Edit roslaunch to execute all relevant objects, not just the camera
 
-Any feedback is welcome. Submit code to github, and contact me directly at dbrown@byu.net
+Any feedback is welcome. 
 
